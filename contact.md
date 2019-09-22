@@ -39,4 +39,6 @@ forms:
 
 # Contact
 
-Lorem ipsum...
+Lorem ipsum… [this is a link](https://www.google.com){: target="_blank"}
+
+*this is italic*
